@@ -1,4 +1,4 @@
-%Solution of 1-D Transport Equation by Bright Takyi (10878402)
+%Solution of 1-D Transport Equation by Bright Takyi 
 % Transport Equation; s_t = -v*s_x + D*s_xx - lambda
 % Initial and Boundary conditions;
 % s(x,0)=s0, s(0,t)=s1, ds/dx=0
